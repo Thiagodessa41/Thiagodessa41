@@ -1,2 +1,2 @@
-# mostusedlanguages
-ReadMe com as linguagens mais utilizadas no meu GitHub
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodessa41&layout=compact&hide=shell&theme=dracula" />
+
